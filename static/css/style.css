@@ -14,12 +14,12 @@ p {
 }
 
 h1 {
-  color: darkred !important;
+  color: rgb(0, 0, 0) !important;
   font-weight: bold;
 }
 
 h2 {
-  color: darkorange !important;
+  color: rgb(0, 0, 0) !important;
   font-family: Arial, sans-serif;
 }
 
@@ -44,8 +44,8 @@ h3 {
 
 /* Figure captions */
 figcaption {
-  color: orange !important;
-  font-weight: 500;
+  color: rgb(20, 51, 91) !important;
+  font-weight: 600;
 }
 
 /* Links */
